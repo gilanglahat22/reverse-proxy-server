@@ -47,8 +47,8 @@ Note: Pingora integration may require additional dependencies and is considered 
 
 2. Clone the repository:
    ```
-   git clone https://bitbucket.org/kantara/reverse-proxy.git
-   cd reverse-proxy
+   git clone git@bitbucket.org:imkhq/kantara-test-gilang-rust.git
+   cd kantara-test-gilang-rust
    ```
 
 3. Build the project:
